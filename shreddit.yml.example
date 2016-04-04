@@ -1,3 +1,4 @@
+!ShredditConfig
 ---
 # Login details for Reddit. Fill out if you don't wish
 # to be prompted for a login every time you run Shreddit.
